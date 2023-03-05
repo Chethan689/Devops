@@ -1,5 +1,0 @@
-java
-python
-c++
-22
-33
